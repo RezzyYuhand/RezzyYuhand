@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Rezzy Yuhand Pramudita</h1>
-<h3 align="center">a passionate undergraduate informatics engineering students</h3>
+<h1 align="left">Hi 👋, I'm Rezzy Yuhand Pramudita</h1>
+<h3 align="left">a passionate undergraduate informatics engineering students</h3>
 
 - 🌱 I’m currently learning **Website and Android Development**
 
